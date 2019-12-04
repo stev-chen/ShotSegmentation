@@ -12,6 +12,8 @@ Need numpy and cv2, if not installed as well.
 
 To run be sure run.sh has execute permissions.
 
+# How to Use
+
 sudo ./run.sh videofilepath framerate threshold
 
 Where videofilepath is the path to the video, framerate is the framerate to process at (does not have to be the same as video frame rate, lower framerates will have better runtime), and threshold is the ratio threshold to use (decrease if missing some shot detection).
