@@ -1,4 +1,4 @@
-# csc420_final
+# ShotSegmentation
 
 # Requirements
 Make sure to run on Python 3
